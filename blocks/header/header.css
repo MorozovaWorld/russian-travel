@@ -1,0 +1,18 @@
+.header {
+  position: relative;
+  left: -100px;
+  width: calc(100% + 100px*2);
+  height: 52px;
+  margin-bottom: 56px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+@media screen and (max-width: 1024px) {
+  .header {
+    position: static;
+    width: 100%;
+  }
+  }
+}
