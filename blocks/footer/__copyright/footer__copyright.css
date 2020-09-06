@@ -3,3 +3,15 @@
   line-height: 1.14;
   margin: 0;
 }
+
+@media screen and (max-width: 720px) {
+  .footer__copyright {
+    font-size: 9px;
+  }
+}
+
+@media screen and (max-width: 540px) {
+  .footer__copyright {
+    font-size: 14px;
+  }
+}

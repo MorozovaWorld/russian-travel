@@ -15,8 +15,16 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+
+@media screen and (max-width: 720px) {
   .place__image {
-    width: 100%;
+    max-width: 270px;
+  }
+}
+
+
+@media screen and (max-width: 540px) {
+  .place__image {
+    max-width: 100%;
   }
 }

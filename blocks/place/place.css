@@ -23,6 +23,18 @@
   }
 }
 
+@media screen and (max-width: 540px) {
+  .place {
+    grid-template-columns: 1fr;
+    grid-template-areas: 
+    'title'
+    'image'
+    'text';
+    width: 100%;
+    row-gap: 32px;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .place {
     grid-template-columns: 1fr;
