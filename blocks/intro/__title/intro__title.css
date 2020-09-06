@@ -1,6 +1,37 @@
 .intro__title {
-  font-family: 'Inter';
   font-weight: 900;
-  font-size: 96px;
-  line-height: 1.04;
+  font-size: 54px;
+  line-height: 1.07;
+  margin: 0 0 40px;
+}
+
+/* @media screen and (max-width: 720px) {
+  .intro__title {
+    font-size: 70px;
+  }
+}
+
+@media screen and (max-width: 540px) {
+  .intro__title {
+    font-size: 52px;
+  }
+}
+
+@media screen and (max-width: 414px) {
+  .intro__title {
+    font-size: 44px;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  .intro__title {
+    font-size: 41px;
+  }
+} */
+
+@media screen and (max-width: 320px) {
+  .intro__title {
+    font-size: 32px;
+    line-height: 1.09;
+  }
 }
