@@ -6,30 +6,6 @@
   margin: 0 0 32px;
 }
 
-/* @media screen and (max-width: 720px) {
-  .intro__text {
-    font-size: 70px;
-  }
-}
-
-@media screen and (max-width: 540px) {
-  .intro__text {
-    font-size: 52px;
-  }
-}
-
-@media screen and (max-width: 414px) {
-  .intro__text {
-    font-size: 44px;
-  }
-}
-
-@media screen and (max-width: 360px) {
-  .intro__text {
-    font-size: 41px;
-  }
-} */
-
 @media screen and (max-width: 320px) {
   .intro__text {
     font-size: 16px;

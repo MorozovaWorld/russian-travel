@@ -2,6 +2,7 @@
   font-weight: 900;
   font-size: 96px;
   line-height: 1.04;
+  text-rendering: optimizeLegibility;
   max-height: 200px;
   max-width: 720px;
   text-align: center;
