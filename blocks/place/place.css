@@ -30,7 +30,6 @@
     'title'
     'image'
     'text';
-    width: 100%;
     row-gap: 32px;
   }
 }
